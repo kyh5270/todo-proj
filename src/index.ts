@@ -1,4 +1,4 @@
-import TodoConsole from "./view/TodoCosole";
+import TodoConsole from "./view/TodoConsole";
 
 const todoConsole = new TodoConsole();
 todoConsole.promptUser();
